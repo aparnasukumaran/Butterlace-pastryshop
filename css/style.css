@@ -510,7 +510,9 @@ color: var(--secondry-color);
 .fa:hover{
   color: var(--secondry-color);
 }
-
+#map:hover{
+  color: var(--secondry-color);
+}
 
 /* Modal Background */
 .modal {

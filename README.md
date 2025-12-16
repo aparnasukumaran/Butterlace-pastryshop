@@ -2,6 +2,9 @@
 
 A modern and aesthetic pastry shop website designed with a warm and inviting user interface to showcase products and brand style.
 
+## 🔗 Live Preview
+https://aparnasukumaran.github.io/Butterlace-pastryshop/
+
 ## 🌟 Features
 - Modern and aesthetic UI design
 - Responsive layout for all devices
@@ -31,5 +34,6 @@ This project was created to practice frontend development and UI design by build
 ## 📌 Project Status
 Completed
 
-## 🔗 Live Preview
-https://aparnasukumaran.github.io/Butterlace-pastryshop/
+## 🙋‍♂️ Author
+Aparna Krishna u s
+GitHub: https://github.com/aparnasukumaran

@@ -1,4 +1,4 @@
-# Pastry Shop Website (Frontend)
+## Pastry Shop Website (Frontend)
 
 A modern and aesthetic pastry shop website designed with a warm and inviting user interface to showcase products and brand style.
 

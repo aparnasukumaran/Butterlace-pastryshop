@@ -30,6 +30,6 @@ Frontend / Static Website
 ## Purpose of the Project
 This project was created to practice frontend development and UI design by building a visually appealing website for a pastry shop.
 
-## 🙋‍♂️ Author
--Aparna Krishna u s
+## Author
+- Aparna Krishna u s
 Clone: https://github.com/aparnakrishnaus/Butterlace-pastryshop.git

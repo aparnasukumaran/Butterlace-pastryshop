@@ -20,8 +20,8 @@ https://aparnakrishnaus.github.io/Butterlace-pastryshop/
 
 ## Screenshots
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/82156689-5b7f-4b63-85ce-04181831e37c" width="450">
-  <img src="https://github.com/user-attachments/assets/053c38a5-db61-4190-8feb-f7938956c310" width="450">
+  <img src="https://github.com/user-attachments/assets/82156689-5b7f-4b63-85ce-04181831e37c" width="300">
+  <img src="https://github.com/user-attachments/assets/053c38a5-db61-4190-8feb-f7938956c310" width="300">
 </div>
 
 ## Project Type

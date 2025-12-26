@@ -32,4 +32,4 @@ This project was created to practice frontend development and UI design by build
 
 ## Author
 - Aparna Krishna u s
-Clone: https://github.com/aparnakrishnaus/Butterlace-pastryshop.git
+- Clone: https://github.com/aparnakrishnaus/Butterlace-pastryshop.git
